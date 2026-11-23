@@ -1,0 +1,15 @@
+e7ad3c7a8d4609249c8cce0812ecd984 *DESCRIPTION
+177492a6f06450c2a9cd07da74d2e2af *LICENSE
+44065290548e60f01c5acf560e42c649 *NAMESPACE
+91e48191b9725a5ebedc8820694c554d *NEWS.md
+06342c671afd1be97b8715658178a532 *R/flatratemath.R
+dab16459fb1e53c9ff2c13ec49f5540e *README.md
+4436c7262567fe23a2c372db02b540b2 *man/FLAT_RATE_MONTHLY_USD.Rd
+ab778e62a31251e59496c9275e42b663 *man/SENIOR_SWE_MONTHLY_USD.Rd
+33562a13af6492e5b1c6cded7f0983a4 *man/annual_saving.Rd
+46960249d2c27c373114050530fd0f21 *man/benchmark.Rd
+22dc3278e935aefcdcafe128960ed005 *man/coverage_multiple.Rd
+887953faa356a7f4b6adda2cf03b57bd *man/flatratemath-package.Rd
+13003337d438efd4d0a29333a0455550 *man/hourly_rates.Rd
+8ef2037fbb78bb0eddbc4890a9aa56a2 *man/monthly_cost.Rd
+890149f37b125b0c315d13e9b2074e5e *man/savings_table.Rd
